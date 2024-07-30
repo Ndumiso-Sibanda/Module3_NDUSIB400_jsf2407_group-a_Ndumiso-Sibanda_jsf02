@@ -48,7 +48,14 @@ onMount(() => {
                     <div class="t-0 absolute left-3 -top-4">
                         <p class="flex h-2 w-2 items-center justify-center rounded-full bg-red-500 p-3 text-xs text-white">2</p>
                     </div>
-
+                    <svg
+                    xmlns="http://www.w3.org/2000/svg"
+                    fill="none"
+                    viewBox="0 0 24 24"
+                    strokeWidth="1.5"
+                    stroke="currentColor"
+                    class="file: h-6 w-6 stroke-white cursor-pointer"
+                >
 
 
 
